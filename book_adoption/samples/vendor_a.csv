@@ -1,0 +1,4 @@
+course_crn,term_code,department,course,section,isbn,title,author,publisher,sales_prices
+12298|202610,,MATH,Statistics,001,9780000000001,Foundations of Statistics,Example Author,Sample Press,New: $120.00
+18820,202620,ENGL,Composition I,004,0306406152,Writing With Purpose,Third Author,Sample Press,Used: $45.00; New: $89.50
+15477|202710,,HIST,World History,010,9780000000005,World History Survey,Fourth Author,Demo Books,Rental only

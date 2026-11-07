@@ -1,0 +1,4 @@
+term,department,course,section,ean13,title,author,publisher,new_price
+J24,SCI,Biology,002,9780000000002,Introduction to Biology,Second Author,Demo Books,$75.00
+G24,CHEM,General Chemistry,001,9780000000006,Principles of Chemistry,Fifth Author,Demo Books,$110.00
+B25,ART,Drawing I,002,9780000000007,Drawing Basics,Sixth Author,Sample Press,$40.00
